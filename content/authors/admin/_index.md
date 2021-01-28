@@ -1,5 +1,5 @@
 ---
-bio: My research interests include Mathematics, Statistics, and Computer Science.
+bio: My research interests include Mathematics, Statistics, Database, and Computer Science.
 education:
   courses:
   - course: Msc in Database and Artificial Intelligence
